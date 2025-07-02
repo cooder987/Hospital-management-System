@@ -1,0 +1,4 @@
+Name: haassan
+Age: 45
+Type: Emergency Patient
+---
